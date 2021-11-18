@@ -1,8 +1,10 @@
 
 def convert(self, s: str, numRows: int) -> str:
-	
-def main():
+	print("Nguyen Dang Khuong")
 
+
+def main():
+	convert()
 
 if __name__ == '__main__':
 	main()
